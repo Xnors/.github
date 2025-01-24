@@ -13,12 +13,7 @@ Hi, everyone! We are Xnors Code Studio.
 
 Xnors is a coterie of IT composed of ~~adolescent syndrome~~ Generation Z members. (laughs)
 
-Anything else -- Check below!
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnors&theme=dark&count_private=true)
-
-![GitHub stats of Xnors](https://github-readme-stats.vercel.app/api?username=Xnors&show_icons=true&theme=dark)
+Anything else -- Uh, Nothing.
 
 
 # Contact Information
