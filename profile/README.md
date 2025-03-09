@@ -4,7 +4,7 @@ Hi, everyone! We are Xnors Code Studio.
 
 <p>
 <a href="https://github.com/Xnors"><img src="https://img.shields.io/badge/Github-Xnors-red"/></a>
-<a href="https://xnors.github.io"><img src="https://img.shields.io/badge/Homepage-Xnors-blue"/></a>
+<a href="https://xnors.us.kg"><img src="https://img.shields.io/badge/Homepage-Xnors-blue"/></a>
 <a href="mailto:xnors-studio@outlook.com"><img src="https://img.shields.io/badge/Email-Xnors-green"/></a>
 </p>
 
