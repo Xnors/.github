@@ -4,7 +4,8 @@ Hi, everyone! We are Xnors Code Studio.
 
 <p>
 <a href="https://github.com/Xnors"><img src="https://img.shields.io/badge/Github-Xnors-red"/></a>
-<a href="https://xnors.us.kg"><img src="https://img.shields.io/badge/Homepage-Xnors-blue"/></a>
+<a href="https://xnors.github.io"><img src="https://img.shields.io/badge/Homepage-Xnors-blue"/></a>
+<a href="https://xnors.github.io/xblogs"><img src="https://img.shields.io/badge/Blogs-Xnors-yellow"/></a>
 <a href="mailto:xnors-studio@outlook.com"><img src="https://img.shields.io/badge/Email-Xnors-green"/></a>
 </p>
 
@@ -15,6 +16,14 @@ Xnors is a coterie of IT composed of ~~adolescent syndrome~~ Generation Z member
 
 Anything else -- Uh, Nothing.
 
+# Members
+
+Now, we have 2 members.
+
+They are:
+
+- [BaiChuanByte](https://github.com/BaiChuanByte)
+- [Fexcode](https://github.com/Fexcode) 
 
 # Contact Information
 
